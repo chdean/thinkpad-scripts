@@ -1,3 +1,7 @@
+################
+Fork with configuration changes for the Thinkpad X200 Tablet
+################
+
 .. Copyright © 2012-2015 Martin Ueding <dev@martin-ueding.de>
 .. Copyright © 2013 Jim Turner <jturner314@gmail.com>
 
