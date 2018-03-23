@@ -1,7 +1,7 @@
 # Thinkpad X200_Tablet
 keyboard:dmi:bvn*:bvr*:bd*:svnLENOVO*:pn*:pvrThinkPadX200T*
- KEYBOARD_KEY_66=cyclewindows                           # bezel circular arrow
- KEYBOARD_KEY_6b=scale                                  # rotate screen
+ KEYBOARD_KEY_67=cyclewindows                           # bezel circular arrow
+ KEYBOARD_KEY_6c=scale                                  # rotate screen
  
 # Thinkpad X220_Tablet and X230_Tablet
 keyboard:dmi:bvn*:bvr*:bd*:svnLENOVO*:pn*:pvrThinkPadX2[23]0Tablet*
